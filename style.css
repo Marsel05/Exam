@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name h4{
+    font-size: 20px ;
+}
+
+.name{
+    background: #000000;
+    margin: 0 60px ;
+    color: #ffffff;
+
+    padding: 10px 20px;
+
+}
+.second{
+    display: flex;
+    align-items: center;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.table{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hog{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 0;
+}
+.hog h4{
+    margin: 0 175px 0 0 ;
+    color: #ffffff;
+}
+.hom h4{
+    margin: 0 175px 0 0 ;
+    color: #ffffff;
+}
+body h1{
+    color: orange;
+}
+
